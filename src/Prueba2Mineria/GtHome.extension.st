@@ -7,6 +7,6 @@ GtHome >> Prueba2Mineria [
         title: 'Prueba 2 - Esteban Saez y Jose Huircaleo';
         description: 'Desarrollo prueba';
         databaseName: 'estebansaez/prueba2Mineria/lepiter';
-        startPageName: 'MSR DCI';
+        startPageName: 'Prueba2-Esteban';
         priority: 8
 ]
